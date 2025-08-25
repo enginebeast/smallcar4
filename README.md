@@ -20,7 +20,7 @@ I think it's because there is a function that arranges automatically. So, I inse
 
 <img width="789" height="683" alt="image" src="https://github.com/user-attachments/assets/1ea112cb-42da-4197-a360-01c480a42b76" />
 
-Next, I programed the app using block editor of MIT app inventor. The above parts are used to connect the smartphone app to the Arduino via a Bluetooth module. I’ll add a link here once I’ve made the document explaining how it works.
+Next, I programed the app using block editor of MIT app inventor. The above parts are used to connect the smartphone app to the Arduino via a Bluetooth module. Here is the link which I refered to when making the above blocks. [Youtube video](https://community.appinventor.mit.edu/t/app-inventor-arduino/18357) 
 
 <img width="398" height="623" alt="image" src="https://github.com/user-attachments/assets/1f93d5fe-d984-4a67-b2f8-2901db687cbf" />
 
