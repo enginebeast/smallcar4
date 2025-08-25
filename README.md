@@ -1,3 +1,4 @@
+< [Main Page](https://enginebeast.github.io/) < [Small car project](https://enginebeast.github.io/smallcar)
 
 While working on my project, I realized that IR remote control wasn't suitable my project. The IR sensor doesn't work properly when obstacles block the signal. So, I decided to find another way to control my RC car.
 
