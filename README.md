@@ -22,7 +22,9 @@ I think it's because there is a function that arranges automatically. So, I inse
 
 Next, I programed the app using block editor of MIT app inventor. The above parts are used to connect the smartphone app to the Arduino via a Bluetooth module. Here is the [Youtube video](https://community.appinventor.mit.edu/t/app-inventor-arduino/18357) I refered to when making the above blocks. 
 
-<img width="398" height="623" alt="image" src="https://github.com/user-attachments/assets/1f93d5fe-d984-4a67-b2f8-2901db687cbf" />
+<img width="455" height="532" alt="image" src="https://github.com/user-attachments/assets/743d38fa-090a-4fd4-86bf-cd0f749f3c39" />  
+  
+<img width="442" height="527" alt="image" src="https://github.com/user-attachments/assets/744af61b-960f-4f6d-be58-1ab2e477256a" />
 
-(여기 부분 영어 표현 점검 필요)
-The above parts are used to send 1-byte number to Bluetooth module during I click the button. During I push down left of right button, an unvisible interface, clock become True. On the other way, if I push up a botton, clock become False.
+
+[Link](https://www.youtube.com/watch?v=xfmdanZ_Fgc&t=907s)
